@@ -39,6 +39,7 @@ A few small demos here show patterns I use in production (employer work is propr
 
 📫 Reach me
 
-[LinkedIn](https://www.linkedin.com/in/mohammad-kabalan/) · mohammad.akabalan@gmail.com
+[LinkedIn](https://www.linkedin.com/in/mohammad-kabalan/) · mohammad.akabalan@gmail.com 
+https://mohammad-kabalan.com/
 
 🌍 Dubai, UAE · 🗣️ Arabic (native), English (fluent)
